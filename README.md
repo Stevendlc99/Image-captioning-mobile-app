@@ -16,7 +16,7 @@ This project lays out an application for Android implement a system to detect em
 ## Importing the Project on Android Studio
 1. Clone or download this repository:
      ```
-     git clone (https://github.com/Zethearc/Software-Engineering.git)
+     git clone (https://github.com/Stevendlc99/Image-captioning-mobile-app.git)
      ```
 2. Open Android Studio
 3. Click on File -> New -> Import Project
