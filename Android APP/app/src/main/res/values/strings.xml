@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sentimental-Analysis-Captioning App. </string>
+    <string name="login">Login</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="google">Google</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Password</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrar">Registrar</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="upload">Upload</string>
+    <string name="remove_all">Remove All</string>
+    <string name="cerrar_sesi_n">Sign Off</string>
+    <string name="prefs_file">com.example.photos_app.PREFERENCE_FILE_KEY</string>>
+    <string name="tfe_tc_edit_text_hint" translatable="false">Input Text.</string>
+    <string name="tfe_tc_app_name" translatable="false">Sentiment Analysis App</string>
+    <string name="tfe_tc_button_ok" translatable="false">Predict</string>
+
+</resources>
